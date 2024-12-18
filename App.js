@@ -5,7 +5,7 @@ import './App.css';
 import React,{useState} from 'react';
 import Alert from './component/Alert';
 // import About from './component/About';
-//imrs
+
 
 
 
